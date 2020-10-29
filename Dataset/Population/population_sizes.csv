@@ -1,0 +1,314 @@
+"Country_Region","Province_State","Source","Population"
+"Afghanistan","",9,31056997
+"Albania","",9,3581655
+"Algeria","",9,32930091
+"Andorra","",9,71201
+"Angola","",9,12127071
+"Antigua and Barbuda","",9,69108
+"Argentina","",9,39921833
+"Armenia","",9,2976372
+"Australia","Australian Capital Territory",3,428100
+"Australia","New South Wales",3,8118000
+"Australia","Northern Territory",3,245600
+"Australia","Queensland",3,5115500
+"Australia","South Australia",3,1756500
+"Australia","Tasmania",3,535500
+"Australia","Victoria",3,6629900
+"Australia","Western Australia",3,2630600
+"Austria","",9,8192880
+"Azerbaijan","",9,7961619
+"Bahamas","",9,303770
+"Bahrain","",9,698585
+"Bangladesh","",9,147365352
+"Barbados","",9,279912
+"Belarus","",9,10293011
+"Belgium","",9,10379067
+"Belize","",9,287730
+"Benin","",9,7862944
+"Bhutan","",9,2279723
+"Bolivia","",9,8989046
+"Bosnia and Herzegovina","",9,4498976
+"Botswana","",9,1639833
+"Brazil","",9,188078227
+"Brunei","",9,379444
+"Bulgaria","",9,7385367
+"Burkina Faso","",9,13902972
+"Burma","",9,47382633
+"Burundi","",9,8090068
+"Cabo Verde","",2,583255
+"Cambodia","",9,13881427
+"Cameroon","",9,17340702
+"Canada","Alberta",4,4413146
+"Canada","British Columbia",4,5110917
+"Canada","Manitoba",4,1377517
+"Canada","New Brunswick",4,779993
+"Canada","Newfoundland and Labrador",4,521365
+"Canada","Northwest Territories",4,44904
+"Canada","Nova Scotia",4,977457
+"Canada","Ontario",4,14711827
+"Canada","Prince Edward Island",4,158158
+"Canada","Quebec",4,8537674
+"Canada","Saskatchewan",4,1181666
+"Canada","Yukon",4,41078
+"Central African Republic","",9,4303356
+"Chad","",9,9944201
+"Chile","",9,16134219
+"China","Anhui",5,63240000
+"China","Beijing",5,21540000
+"China","Chongqing",5,31020000
+"China","Fujian",5,39410000
+"China","Gansu",5,26370000
+"China","Guangdong",5,113460000
+"China","Guangxi",5,49260000
+"China","Guizhou",5,36000000
+"China","Hainan",5,9340000
+"China","Hebei",5,75560000
+"China","Heilongjiang",5,37730000
+"China","Henan",5,96050000
+"China","Hong Kong",2,7249907
+"China","Hubei",5,59170000
+"China","Hunan",5,68990000
+"China","Inner Mongolia",5,25340000
+"China","Jiangsu",5,80510000
+"China","Jiangxi",5,46480000
+"China","Jilin",5,27040000
+"China","Liaoning",5,43590000
+"China","Macau",2,614458
+"China","Ningxia",5,6880000
+"China","Qinghai",5,6030000
+"China","Shaanxi",5,38640000
+"China","Shandong",5,100470000
+"China","Shanghai",5,24240000
+"China","Shanxi",5,37180000
+"China","Sichuan",5,83410000
+"China","Tianjin",5,15600000
+"China","Tibet",5,3440000
+"China","Xinjiang",5,24870000
+"China","Yunnan",5,48300000
+"China","Zhejiang",5,57370000
+"Colombia","",9,43593035
+"Congo (Brazzaville)","",9,3702314
+"Congo (Kinshasa)","",9,62660551
+"Costa Rica","",9,4075261
+"Cote d'Ivoire","",9,17654843
+"Croatia","",9,4494749
+"Cuba","",9,11382820
+"Cyprus","",9,784301
+"Czechia","",9,10235455
+"Denmark","",9,5450661
+"Denmark","Faroe Islands",6,50844
+"Denmark","Greenland",7,56081
+"Diamond Princess","",8,3711
+"Djibouti","",9,486530
+"Dominica","",9,68910
+"Dominican Republic","",9,9183984
+"Ecuador","",9,13547510
+"Egypt","",9,78887007
+"El Salvador","",9,6822378
+"Equatorial Guinea","",9,540109
+"Eritrea","",9,4786994
+"Estonia","",9,1324333
+"Eswatini","",2,1104479
+"Ethiopia","",9,74777981
+"Fiji","",9,905949
+"Finland","",9,5231372
+"France","",9,60876136
+"France","French Guiana",11,290691
+"France","French Polynesia",2,295121
+"France","Guadeloupe",11,376879
+"France","Martinique",11,358749
+"France","Mayotte",11,279471
+"France","New Caledonia",2,290009
+"France","Reunion",11,859959
+"France","Saint Barthelemy",2,7122
+"France","Saint Pierre and Miquelon",2,5347
+"France","St Martin",2,32556
+"Gabon","",9,1424906
+"Gambia","",9,1641564
+"Georgia","",9,4661473
+"Germany","",9,82422299
+"Ghana","",9,22409572
+"Greece","",9,10688058
+"Grenada","",9,89703
+"Guatemala","",9,12293545
+"Guinea","",9,9690222
+"Guinea-Bissau","",9,1442029
+"Guyana","",9,767245
+"Haiti","",9,8308504
+"Holy See","",2,1000
+"Honduras","",9,7326496
+"Hungary","",9,9981334
+"Iceland","",9,299388
+"India","",9,1095351995
+"Indonesia","",9,245452739
+"Iran","",9,68688433
+"Iraq","",9,26783383
+"Ireland","",9,4062235
+"Israel","",9,6352117
+"Italy","",9,58133509
+"Jamaica","",9,2758124
+"Japan","",9,127463611
+"Jordan","",9,5906760
+"Kazakhstan","",9,15233244
+"Kenya","",9,34707817
+"Korea, South","",9,48846823
+"Kosovo","",2,1932774
+"Kuwait","",9,2418393
+"Kyrgyzstan","",9,5213898
+"Laos","",9,6368481
+"Latvia","",9,2274735
+"Lebanon","",9,3874050
+"Liberia","",9,3042004
+"Libya","",9,5900754
+"Liechtenstein","",9,33987
+"Lithuania","",9,3585906
+"Luxembourg","",9,474413
+"MS Zaandam","",12,1829
+"Madagascar","",9,18595469
+"Malawi","",9,13013926
+"Malaysia","",9,24385858
+"Maldives","",9,359008
+"Mali","",9,11716829
+"Malta","",9,400214
+"Mauritania","",9,3177388
+"Mauritius","",9,1240827
+"Mexico","",9,107449525
+"Moldova","",9,4466706
+"Monaco","",9,32543
+"Mongolia","",9,2832224
+"Montenegro","",2,609859
+"Morocco","",9,33241259
+"Mozambique","",9,19686505
+"Namibia","",9,2044147
+"Nepal","",9,28287147
+"Netherlands","",9,16491461
+"Netherlands","Aruba",2,119428
+"Netherlands","Bonaire, Sint Eustatius and Saba",13,25987
+"Netherlands","Curacao",2,151345
+"Netherlands","Sint Maarten",2,43847
+"New Zealand","",9,4076140
+"Nicaragua","",9,5570129
+"Niger","",9,12525094
+"Nigeria","",9,131859731
+"North Macedonia","",9,2050554
+"Norway","",9,4610820
+"Oman","",9,3102229
+"Pakistan","",9,165803560
+"Panama","",9,3191319
+"Papua New Guinea","",9,5670544
+"Paraguay","",9,6506464
+"Peru","",9,28302603
+"Philippines","",9,89468677
+"Poland","",9,38536869
+"Portugal","",9,10605870
+"Qatar","",9,885359
+"Romania","",9,22303552
+"Russia","",9,142893540
+"Rwanda","",9,8648248
+"Saint Kitts and Nevis","",9,39129
+"Saint Lucia","",9,168458
+"Saint Vincent and the Grenadines","",9,117848
+"San Marino","",9,29251
+"Sao Tome and Principe","",2,211122
+"Saudi Arabia","",9,27019731
+"Senegal","",9,11987121
+"Serbia","",9,9396411
+"Seychelles","",9,81541
+"Sierra Leone","",9,6005250
+"Singapore","",9,4492150
+"Slovakia","",9,5439448
+"Slovenia","",9,2010347
+"Somalia","",9,8863338
+"South Africa","",9,44187637
+"South Sudan","",2,10561244
+"Spain","",9,40397842
+"Sri Lanka","",9,20222240
+"Sudan","",9,41236378
+"Suriname","",9,439117
+"Sweden","",9,9016596
+"Switzerland","",9,7523934
+"Syria","",9,18881361
+"Taiwan*","",9,23036087
+"Tanzania","",9,37445392
+"Thailand","",9,64631595
+"Timor-Leste","",9,1062777
+"Togo","",9,5548702
+"Trinidad and Tobago","",9,1065842
+"Tunisia","",9,10175014
+"Turkey","",9,70413958
+"US","Alabama",1,4903185
+"US","Alaska",1,731545
+"US","Arizona",1,7278717
+"US","Arkansas",1,3017804
+"US","California",1,39512223
+"US","Colorado",1,5758736
+"US","Connecticut",1,3565287
+"US","Delaware",1,973764
+"US","District of Columbia",1,705749
+"US","Florida",1,21477737
+"US","Georgia",1,10617423
+"US","Guam",2,168485
+"US","Hawaii",1,1415872
+"US","Idaho",1,1787065
+"US","Illinois",1,12671821
+"US","Indiana",1,6732219
+"US","Iowa",1,3155070
+"US","Kansas",1,2913314
+"US","Kentucky",1,4467673
+"US","Louisiana",1,4648794
+"US","Maine",1,1344212
+"US","Maryland",1,6045680
+"US","Massachusetts",1,6892503
+"US","Michigan",1,9986857
+"US","Minnesota",1,5639632
+"US","Mississippi",1,2976149
+"US","Missouri",1,6137428
+"US","Montana",1,1068778
+"US","Nebraska",1,1934408
+"US","Nevada",1,3080156
+"US","New Hampshire",1,1359711
+"US","New Jersey",1,8882190
+"US","New Mexico",1,2096829
+"US","New York",1,19453561
+"US","North Carolina",1,10488084
+"US","North Dakota",1,762062
+"US","Ohio",1,11689100
+"US","Oklahoma",1,3956971
+"US","Oregon",1,4217737
+"US","Pennsylvania",1,12801989
+"US","Puerto Rico",2,3189068
+"US","Rhode Island",1,1059361
+"US","South Carolina",1,5148714
+"US","South Dakota",1,884659
+"US","Tennessee",1,6829174
+"US","Texas",1,28995881
+"US","Utah",1,3205958
+"US","Vermont",1,623989
+"US","Virgin Islands",2,106235
+"US","Virginia",1,8535519
+"US","Washington",1,7614893
+"US","West Virginia",1,1792147
+"US","Wisconsin",1,5822434
+"US","Wyoming",1,578759
+"Uganda","",9,28195754
+"Ukraine","",9,46710816
+"United Arab Emirates","",9,2602713
+"United Kingdom","",9,60609153
+"United Kingdom","Anguilla",2,18090
+"United Kingdom","Bermuda",2,71750
+"United Kingdom","British Virgin Islands",2,37381
+"United Kingdom","Cayman Islands",2,61944
+"United Kingdom","Channel Islands",10,173859
+"United Kingdom","Falkland Islands (Malvinas)",2,3198
+"United Kingdom","Gibraltar",2,29581
+"United Kingdom","Isle of Man",2,90499
+"United Kingdom","Montserrat",2,5373
+"United Kingdom","Turks and Caicos Islands",2,55926
+"Uruguay","",9,3431932
+"Uzbekistan","",9,27307134
+"Venezuela","",9,25730435
+"Vietnam","",9,84402966
+"West Bank and Gaza","",2,4818255
+"Western Sahara","",9,273008
+"Zambia","",9,11502010
+"Zimbabwe","",9,12236805
